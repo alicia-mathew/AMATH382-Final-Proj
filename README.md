@@ -1,3 +1,6 @@
 # AMATH 382 - Final Project
-Final Project for AMATH 382 (Computational Modelling of Cellular Systems)
+Photobiomodulation (PBM) is a form of light therapy that employs specific wavelengths of light in the red to near-infrared spectrum to stimulate cells and tissues. This non-invasive therapy targets chromophores within cells, particularly in mitochondria, triggering responses that enhance ATP production and influence cellular activity. PBM is widely applied in wound healing, cell regeneration, promoting anti-inflammatory responses, and pain relief.
+
+Cellular molecules do not respond to PBM in isolation but through complex feedback mechanisms consisting of numerous signaling molecules and pathways. These dynamic responses change significantly over time depending on different environmental conditions, making it a challenge to track and predict accurately. Building on previous studies, Hsieh et al. (2022) developed a mathematical model using ordinary differential equations to describe PBM's impact on mitochondrial cytochrome c oxidase, an enzyme vital for ATP synthesis. This report broadens the model's scope to assess the potential inhibitory effects of common concerns like alcohol consumption on the mechanisms underlying PBM treatment efficacy, specifically the processes that regulate oxidative stress during stimulation. The simulated results show that mild, moderate, and severe alcohol consumption all lead to a prolonged period of unregulated oxidative stress within the mitochondria during PBM stimulation, which could lead to harmful effects.
+
 
